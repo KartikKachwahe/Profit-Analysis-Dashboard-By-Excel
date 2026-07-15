@@ -105,9 +105,9 @@ Key questions addressed:
 
 | Metric | Value |
 |----------|--------|
-| Total Records | *(update with actual row count)* |
-| Total Fields | *(update with actual column count)* |
-| Time Period Covered | *(e.g., FY 2023–2024)* |
+| Total Records | ** |
+| Total Fields | ** |
+| Time Period Covered | ** |
 | Data Type | Structured Tabular Data (Excel/CSV) |
 
 ---
@@ -259,9 +259,6 @@ Profit-Analysis-Dashboard-By-Excel
 ├── Raw_Data.csv
 ├── Dashboard_Screenshot.png
 ├── README.md
-```
-
-*(Update file names above to match your actual repository contents.)*
 
 ---
 
