@@ -105,9 +105,8 @@ Key questions addressed:
 
 | Metric | Value |
 |----------|--------|
-| Total Records | ** |
-| Total Fields | ** |
-| Time Period Covered | ** |
+| Total Records | 2001 |
+| Total Fields | 12 |
 | Data Type | Structured Tabular Data (Excel/CSV) |
 
 ---
